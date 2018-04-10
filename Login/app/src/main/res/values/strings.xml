@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="login_text">Login Page</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="attempt_text">Attempt</string>
+    <string name="button_login_text">Login</string>
+    <string name="title_activity_user">user</string>
+    <string name="title_activity_next_page">nextPage</string>
+    <string name="title_activity_create_page">createPage</string>
+</resources>
