@@ -9,4 +9,8 @@
     <string name="title_activity_user">user</string>
     <string name="title_activity_next_page">nextPage</string>
     <string name="title_activity_create_page">createPage</string>
+    <string name="userBox">Username</string>
+    <string name="passBox">Password</string>
+    <string name="createButton">Create new account!</string>
+    <string name="save">Save Credentials</string>
 </resources>
